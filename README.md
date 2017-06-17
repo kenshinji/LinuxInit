@@ -1,4 +1,4 @@
-# A few thins to do for initialize a Unix-like environment 
+# A few thins to do for initializing a Unix-like environment 
 
  - [] Add current user to sudo 
 	`apt-get update && apt-get install sudo -y&& usermod -aG sudo <username>`
